@@ -1,0 +1,41 @@
+body {
+	margin: 20px auto;
+	max-width: 750px;
+	line-height: 1.5em;
+	font-size: 1.1em;
+	background-color: #f0f8ff;
+	color: #000000;
+	padding:0 10px;
+	hyphens: auto
+}
+.inter {
+	font-family: "Inter", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 300;
+	font-style: normal;
+}
+	header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	white-space: nowrap;
+	font-variant: small-caps
+}
+	a {
+	color: #000000;
+	text-decoration: none
+}
+	a:hover {
+	color: #000000
+}
+	h1 {color: #000000;
+}
+	h2,h3,h4,h5 {
+	color: #000000;
+}
+	img {
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+
+}
